@@ -14,7 +14,7 @@ function App() {
     <div className="app-container">
       {!showProductList ? (
         <div className="landing-page">
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
           <p>Where Green Meets Serenity</p>
           <button className="get-started-btn" onClick={handleGetStartedClick}>
             Get Started
